@@ -1,0 +1,47 @@
+{
+	"lastCrawlTimeUTC": 1477519839,
+	"docId": 223814893878,
+	"author": "Liam Moroney",
+	"diffbotUri": "article|3|522718394",
+	"text": "Measurement\nNewsCred's Liam Moroney, Demand Generation Manager, takes you through part 1 of this 2 part webinar series. He'll be addressing the ideal setup for your website and Google Analytics that will result in cleaner data, making it easier to access and report in a meaningful way.",
+	"humanLanguage": "en",
+	"title": "WEBINAR: How to Measure Content Marketing Conversions with Google Analytics",
+	"html": "<p><a href=\"https://insights.newscred.com/topics/measurement/\">Measurement</a></p>\n<p>NewsCred's Liam Moroney, Demand Generation Manager, takes you through part 1 of this 2 part webinar series. He'll be addressing the ideal setup for your website and Google Analytics that will result in cleaner data, making it easier to access and report in a meaningful way.</p>",
+	"siteName": "Insights",
+	"gburl": "https://insights.newscred.com/webinar-how-to-measure-content-marketing-conversions-with-google-analytics/-diffbotxyz1241043973",
+	"images": [{
+		"naturalHeight": 1666,
+		"diffbotUri": "image|3|-1779541160",
+		"naturalWidth": 2500,
+		"primary": true,
+		"width": 0,
+		"url": "https://16002-presscdn-0-55-pagely.netdna-ssl.com/wp-content/uploads/2016/09/thumbnail-8d605a0c692d246950936833d3c7c564.jpeg",
+		"height": 0
+	}],
+	"pageUrl": "https://insights.newscred.com/webinar-how-to-measure-content-marketing-conversions-with-google-analytics/",
+	"authorUrl": "/?s=Liam Moroney",
+	"timestamp": "Wed, 26 Oct 2016 22:10:39 GMT",
+	"date": "Wed, 28 Sep 2016 00:00:00 GMT",
+	"estimatedDate": "Wed, 28 Sep 2016 00:00:00 GMT",
+	"type": "article",
+	"parentUrlDocId": 163569729853,
+	"tags": [{
+		"count": 2,
+		"rdfTypes": ["http://dbpedia.org/ontology/Company", "http://dbpedia.org/ontology/Website", "http://dbpedia.org/ontology/Work", "http://www.w3.org/2002/07/owl#Thing"],
+		"score": 0.78,
+		"uri": "http://dbpedia.org/resource/Google_Analytics",
+		"label": "Google Analytics"
+	}, {
+		"count": 1,
+		"score": 0.53,
+		"uri": "http://dbpedia.org/resource/Web_conferencing",
+		"label": "Web conferencing"
+	}, {
+		"count": 1,
+		"rdfTypes": ["http://www.w3.org/2002/07/owl#Thing"],
+		"score": 0.5,
+		"uri": "http://dbpedia.org/resource/Marketing",
+		"label": "Marketing"
+	}],
+	"icon": "https://16002-presscdn-0-55-pagely.netdna-ssl.com/wp-content/themes/academy-newscred/favicon.ico"
+}
